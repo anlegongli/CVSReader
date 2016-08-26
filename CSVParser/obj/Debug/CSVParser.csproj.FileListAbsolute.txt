@@ -1,0 +1,5 @@
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVParser\bin\Debug\CSVParser.dll
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVParser\obj\Debug\CSVParser.csprojResolveAssemblyReference.cache
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVParser\obj\Debug\CSVParser.dll
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVParser\obj\Debug\CSVParser.pdb
