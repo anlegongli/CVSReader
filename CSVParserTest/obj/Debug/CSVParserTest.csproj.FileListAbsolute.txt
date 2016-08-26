@@ -1,0 +1,7 @@
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVParserTest\bin\Debug\CSVParserTest.dll
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVParserTest\bin\Debug\CSVParserTest.pdb
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVParserTest\bin\Debug\CSVParser.dll
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVParserTest\bin\Debug\CSVParser.pdb
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVParserTest\obj\Debug\CSVParserTest.csprojResolveAssemblyReference.cache
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVParserTest\obj\Debug\CSVParserTest.dll
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVParserTest\obj\Debug\CSVParserTest.pdb
