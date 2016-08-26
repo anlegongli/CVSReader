@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVParser", "CSVParser\CSVParser.csproj", "{F432C1B9-0A10-4375-BBF6-847A8976B234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVReaderConsole", "CSVReaderConsole\CSVReaderConsole.csproj", "{261BB362-6EA3-4734-A32F-2E3ED00A27D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVReaderMVC", "CSVReaderMVC\CSVReaderMVC.csproj", "{D7A930E2-7F11-47AE-9AE7-34BE052752FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVParserTest", "CSVParserTest\CSVParserTest.csproj", "{02ECC50D-44B0-45F3-B118-C663CBFAB4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F432C1B9-0A10-4375-BBF6-847A8976B234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F432C1B9-0A10-4375-BBF6-847A8976B234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F432C1B9-0A10-4375-BBF6-847A8976B234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F432C1B9-0A10-4375-BBF6-847A8976B234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261BB362-6EA3-4734-A32F-2E3ED00A27D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261BB362-6EA3-4734-A32F-2E3ED00A27D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261BB362-6EA3-4734-A32F-2E3ED00A27D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261BB362-6EA3-4734-A32F-2E3ED00A27D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A930E2-7F11-47AE-9AE7-34BE052752FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A930E2-7F11-47AE-9AE7-34BE052752FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A930E2-7F11-47AE-9AE7-34BE052752FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A930E2-7F11-47AE-9AE7-34BE052752FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02ECC50D-44B0-45F3-B118-C663CBFAB4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02ECC50D-44B0-45F3-B118-C663CBFAB4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02ECC50D-44B0-45F3-B118-C663CBFAB4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02ECC50D-44B0-45F3-B118-C663CBFAB4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
