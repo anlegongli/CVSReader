@@ -1,0 +1,33 @@
+﻿@model IEnumerable<CSVReaderMVC.Models.EmployeeViewModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Result of CSV file</h2>
+<table>
+    <thead>
+        <tr>
+            <td>Employee Name</td>
+            <td>BirthDay</td>
+            <td>Salary</td>
+            <td>HiredDate</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+               <td>@employee.EmployeeName</td>
+               <td>@employee.Birthday</td>
+                <td>@employee.Salary</td>
+                <td>@employee.DateHired</td>
+            </tr>
+        }
+    </tbody>
+    
+</table>
+<br />
+
+<div id="message">
+    @ViewBag.Message
+</div>
