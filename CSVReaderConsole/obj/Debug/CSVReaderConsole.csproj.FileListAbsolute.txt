@@ -1,0 +1,8 @@
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVReaderConsole\bin\Debug\CSVReaderConsole.exe.config
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVReaderConsole\bin\Debug\CSVReaderConsole.exe
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVReaderConsole\bin\Debug\CSVReaderConsole.pdb
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVReaderConsole\bin\Debug\CSVParser.dll
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVReaderConsole\bin\Debug\CSVParser.pdb
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVReaderConsole\obj\Debug\CSVReaderConsole.csprojResolveAssemblyReference.cache
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVReaderConsole\obj\Debug\CSVReaderConsole.exe
+c:\users\miao\documents\visual studio 2012\Projects\CSVParser\CSVReaderConsole\obj\Debug\CSVReaderConsole.pdb
